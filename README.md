@@ -1,6 +1,6 @@
 # Pomodoro task manager
 This app helps improve productivity by enhancing concentration and avoiding distraction (coupled with Forest).
-
+ 
 What this simple app can do?
 - Add/Remove a task.
 - View tasks.
@@ -13,3 +13,6 @@ What this simple app can do?
 - Play a sound after the break ends.
 
 Use this with Blocklist mode of [Forest app](https://www.forestapp.cc/) to avoid (social media) distractions for maximum productivity.
+
+NOTE: - Make sure tkinter (sudo apt-get install python3-tk) and playsound (pip install playsound) are installed.
+
